@@ -1,5 +1,4 @@
-# Udacity_Nanodegree_DataStreaming
-It contains my projects and activities during my degree
+
 
 # Kafka Producer
 Using the Kafka Topics CLI, topics appear for arrivals on each train line in addition to the turnstiles for each of those stations.
